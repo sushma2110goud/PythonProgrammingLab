@@ -1,0 +1,8 @@
+name=input("enter name")
+email=input("enter email")
+dob=input("enter dob")
+city=input("enter city")
+print(name)
+print(email)
+print(dob)
+print(city)
