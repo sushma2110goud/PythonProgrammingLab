@@ -1,0 +1,9 @@
+def print_arr(limit):
+   for i in limit:
+     print(i,end=' ')
+element=[]
+limit=int(input("enter the elements"))
+for i in range(limit):
+ ele=int(input())
+ element.append(ele)
+print(element)  
